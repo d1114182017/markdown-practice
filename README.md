@@ -1,6 +1,5 @@
-# markdown-practice
-簡單描述
 ## 📷 圖片內容說明
+<img width="510" height="213" alt="螢幕擷取畫面 2026-04-07 134546" src="https://github.com/user-attachments/assets/324ed0e5-5049-4662-8d4f-26aa4e174b0d" />
 
 Initialization:
 ĥ(0) = zeros(p)
